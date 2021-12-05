@@ -17,7 +17,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "+1 (213) 392 8255s"
+phone = "+1 (213) 392 8255"
 email = "gitayier84@gmail.com"
 location = """
 **Gi Tayier**
