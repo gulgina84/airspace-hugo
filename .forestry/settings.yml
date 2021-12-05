@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: Homepage
@@ -99,15 +99,6 @@ sections:
 - type: document
   path: config.toml
   label: Variables & Plugins
-# - type: document
-#   path: exampleSite/config/_default/languages.toml
-#   label: Languages
-# - type: document
-#   path: exampleSite/config/_default/menus.en.toml
-#   label: Menu (en)
-# - type: document
-#   path: exampleSite/config/_default/menus.fr.toml
-#   label: Menu (fr)
 - type: directory
   path: exampleSite/i18n
   label: i18n Translations
