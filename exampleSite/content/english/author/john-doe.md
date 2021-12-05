@@ -1,7 +1,7 @@
 ---
 title: "John Doe"
 email: "email2@example.org"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg.jpeg"
 draft: false
 social:
   - icon : "fab fa-facebook" #https://fontawesome.com/v5.15/icons

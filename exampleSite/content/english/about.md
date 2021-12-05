@@ -1,7 +1,7 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+title: "About Me"
+description: ""
+bg_image: "images/aboutMe.jpeg"
 layout: "about"
 draft: false
 
@@ -10,18 +10,21 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "My name is Gi and I am full-stack developer"
+  content : "Hi 😉 I'm a full-stack developer and I love creating ✨ beautiful and 🛠 functional things. <br /> <br /> I have a background in law 👩🏻‍⚖️, and my interest in intellectual property law 📚 led me to technology 💻🧐 . Understanding the legal aspects of technology 🌪 allows me to realize how fast technology is changing the world 🌎.
 
+<br /> <br /> Around 2017 I really came to understand the combined power of law and technology firsthand 😢 when China began persecuting Uyghur Muslims 🧕🏼. My phone and day-to-day activities were constantly being monitored 🤐 by the police 👮🏻👮🏻‍♂️.
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+<br /> <br /> This experience changed how I thought about my career 🤯, and I decided that I needed to develop a greater understanding of technology 🙇🏻‍♀️, which is why I am learning to code today in the US 👩🏻‍💻.
+
+<br /> <br /> For many, it might be scary to come to a new environment without family and friends 🧍🏻‍♀️, for me, I’ve always been independent 🐅, I found a job in a law firm within a month 🤵🏻‍♀️ where I learn the legal aspects of the US and the way people communicate 🗣 and also saved up some money 💰 for my Bootcamp 🚀.
+
+<br /> <br /> I'm very lucky 🍀 to be here in the US and to learn coding without the previous stresses and fear I encountered in China 🎧."
 
   button:
     enable : true
-    label : "Download Company Profile"
-    link : "#"
+    label : "Download My Resume"
+    link : "/resume.pdf"
 
   funfacts:
   # funfacts loop
@@ -56,7 +59,7 @@ about:
 
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop
@@ -99,41 +102,20 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Where I from"
+    content : "I was born in Komul, Xinjiang, people there are called \"Uyghur\""
 
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "What I love"
+    content : "I love food!!!! I love different culture, traveling.."
 
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Why I code"
+    content : "Coding is so much fun!! Why not?!"
 
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "_index.md"
 ---
