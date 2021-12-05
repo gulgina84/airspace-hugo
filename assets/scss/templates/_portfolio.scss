@@ -3,7 +3,7 @@
 
   .block {
     .portfolio-menu {
-      text-align: start;
+      text-align: center;
 
       .btn-group {
         margin-bottom: 40px;
@@ -27,6 +27,7 @@
 }
 
 .portfolio {
+  justify-items: center;
   &-item {
     position: relative;
     padding: 0;
