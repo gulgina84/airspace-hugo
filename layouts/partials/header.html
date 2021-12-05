@@ -26,7 +26,7 @@
           {{ $pageURL:= $currentPage.Permalink | absLangURL }}
           {{ $active := eq $menuURL $pageURL }}
           {{ if .HasChildren }}
-          <li class="nav-item dropdown 
+          <li class="nav-item dropdown
           {{ range .Children }}
           {{ $childURL := .URL | absLangURL }}
           {{ $active := eq $childURL $pageURL }}
@@ -54,7 +54,7 @@
           {{ end }}
           <li>
             <!-- Language List -->
-            {{ if .IsTranslated }}
+            <!-- {{ if .IsTranslated }}
             <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
               {{ $siteLanguages := site.Languages}}
               {{ $pageLang := .Page.Lang}}
@@ -73,7 +73,7 @@
               {{ end }}
               {{ end }}
             </select>
-            {{ end }}
+            {{ end }} -->
           </li>
         </ul>
       </div>

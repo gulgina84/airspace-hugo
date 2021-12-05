@@ -1,5 +1,5 @@
 .feature {
-  background: url("../img/feature-bg.jpg");
+  background: url("../img/feature-bg.jpeg");
   background-position: 50% 94px;
   display: block;
   position: relative;
@@ -17,17 +17,20 @@
 
   h2 {
     margin: 0px;
-    padding-top: 30px;
+     color: lighten( $light, 1.5);
+    padding-top: 60px;
     padding-bottom: 30px;
   }
 
   p {
-    color: darken( $light, 41.37);
+    color: lighten( $light, 1.5);
     margin-bottom: 20px;
+    margin-right: 100px;
   }
 
   .btn-view-works {
-    background: lighten( $black, 42.35 );
+    // background: lighten( $black, 42.35 );
+    border:1px solid lighten( $black, 42.35 );
     color: $white;
     padding: 10px 20px;
     margin-bottom: 30px;

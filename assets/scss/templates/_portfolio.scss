@@ -3,7 +3,7 @@
 
   .block {
     .portfolio-menu {
-      text-align: center;
+      text-align: start;
 
       .btn-group {
         margin-bottom: 40px;
@@ -93,7 +93,9 @@
 
 
 // Portfolio Single Page
+
 .portfolio-single-page {
+
   .project-details {
     h4 {
       margin-bottom: 20px;
@@ -104,7 +106,7 @@
     span {
       color: lighten( $black, 51.3 );
       width: 180px;
-      display: inline-block;
+      display: inline-blofck;
     }
 
     strong {
