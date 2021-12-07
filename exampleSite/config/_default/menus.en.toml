@@ -40,6 +40,11 @@ url = "project/"
 weight = 3
 
 [[footer]]
+name = "Post"
+url = "post/"
+weight = 3
+
+[[footer]]
 name = "Contact"
 url = "contact/"
 weight = 7

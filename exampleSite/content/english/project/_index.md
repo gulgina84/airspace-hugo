@@ -2,5 +2,5 @@
 title: "My Project"
 description: ""
 draft: false
-bg_image: "images/feature-bg.jpeg"
+bg_image: "images/portfolio/work4.jpg"
 ---

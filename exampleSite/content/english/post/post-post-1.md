@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
-> In this tutorial, you will first learn how to set up your React project using Webpack and Babel. Then, you will learn how to deploy your project to an EC2 Linux instance.
+> In this tutorial, you will first learn how to set up your React project using Webpack and Babel...
 
 
 React is one of the most popular web application frameworks, and React developers often deploy to Amazon EC2 to benefit from its scale and reach their customers across the world. React developers also use asset packaging tools such as Webpack and Babel to bundle their assets and modules for easier deployment. By hosting on AWS, React developers like you can serve customers everywhere and quickly scale to accommodate unexpectedly high customer demand. <br /> <br />In this tutorial, you will first learn how to set up your React project using Webpack and Babel. Then, you will learn how to deploy your project to an EC2 Linux instance.

@@ -27,11 +27,7 @@
 }
 
 .portfolio {
-  justify-items:center;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-  align-self: center;
+
   &-item {
     position: relative;
     padding: 0;
@@ -39,8 +35,7 @@
     img {
       width: 90%;
       height: auto;
-      padding-left: 20%;
-      padding-bottom: 10%;
+      padding: 5%;
     }
 
     &:hover {

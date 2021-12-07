@@ -1,6 +1,6 @@
 ---
 title: "Project Catwalk"
-description: ""
+description: "https://www.youtube.com/watch?v=kLWPPUcrnek&t=24s"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpeg"

@@ -4,8 +4,8 @@ banner:
   enable: true
   bg_image: "images/slider-bg.png"
   bg_overlay: true
-  title: "Welcome <br/> Yahxi Mu Siz"
-  content: "I want to take this chance to let you know a bit more about me 👩🏻‍💻"
+  title: "My Coding Journey<br/>"
+  content: "Welcome!<br/>My name is Gi <br/> A full stack developer👩🏻‍💻"
   button:
     enable: false
     label: "About Me"
@@ -15,8 +15,8 @@ banner:
 about:
   enable: true
   title: "About Me"
-  description: "I'm a full-stack developer / Dog mom / unprofessional baker"
-  content: "I love creating ✨ beautiful and 🛠 functional things."
+  description: ""
+  content: "I'm a full-stack developer / Dog mom / unprofessional baker </br>I love creating beautiful ✨ and functional 🛠 things<br/> Every morning, I  grab a cup of latte or tea, put on my headphone with Lofi/ASMR, continue my coding from where I left yesterday, my heart starts beating fast...and sometime, I will stop and think about how lucky am I, this is so much fun!"
   image: "images/wrapper-img.jpg"
 
 
@@ -25,7 +25,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.jpeg"
   title: "Project"
-  content: "My experiences working countless hours to deploy quality components with popular tools like React, Flutter, NodeJS, MongoDB made me even more motivated to implement new technologies that facilitate my ability to learn and grow."
+  content: "I have team project experience with super talented programmers. I learned how to collaborate, how to communicate efficiently as a programmer, how to learn things faster, how to solve problems in a limited time"
   button:
     enable: true
     label: "My Projects"
