@@ -5,7 +5,7 @@
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
 
-<!-- <section class="page-wrapper">
+<section class="page-wrapper">
   <div class="container">
     <div class="row">
       <div class="col-md-8">
@@ -39,12 +39,12 @@
           {{- end }}
         </div>
       </div>
-      <div class="col-md-4">
+      <!-- <div class="col-md-4">
         {{ partial "blog-sidebar.html" . }}
-      </div>
+      </div> -->
     </div>
   </div>
-</section> -->
+</section>
 
 <!-- regular page -->
 {{ else -}}

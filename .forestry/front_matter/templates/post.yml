@@ -18,17 +18,17 @@ fields:
 - type: text
   name: author
   label: author
-# - type: text
-#   name: description
-#   label: description
-#   description: this is meta description
-# - type: list
-#   name: categories
-#   label: categories
-# - type: list
-#   name: tags
-#   label: tags
-# - type: text
-#   name: type
-#   label: type
-#   default: post
+- type: text
+  name: description
+  label: description
+  description: this is meta description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: type
+  label: type
+  default: post

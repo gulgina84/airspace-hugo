@@ -19,6 +19,7 @@
   .about-img {
     overflow:hidden;
 
+
     &:hover img {
       transform: scale3D(1.1,1.1,1);
     }
@@ -27,6 +28,7 @@
       width: 85%;
       opacity: .6;
       @include transition (all, 0.5s, ease-out);
+
     }
   }
 
