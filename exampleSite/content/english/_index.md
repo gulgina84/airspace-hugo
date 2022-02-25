@@ -16,7 +16,8 @@ about:
   enable: true
   title: "About Me"
   description: ""
-  content: "I'm a full-stack developer / Dog mom / unprofessional baker </br>I love creating beautiful ✨ and functional 🛠 things<br/> My morning routine: grab a cup of coffee / tea, put on my headphone with Lofi / ASMR, start my codeing, and my heart will beat faster... sometime, I will stop for a minute and think about how lucky am I, this is so much fun!"
+  content: "I'm a full-stack developer/Dog mom/unprofessional cook </br>I love creating beautiful ✨ and functional 🛠 things<br/> My morning routine: grab a cup of matcha, put on my headphone with Lofi, and start coding, the heart beat faster and faster... sometime, I will stop and realize how lucky am I...
+  You will find my story at ABOUT page, see you there 😉"
   image: "images/wrapper-img.jpg"
 
 
