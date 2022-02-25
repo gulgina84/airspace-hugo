@@ -4,7 +4,7 @@ description: "https://www.youtube.com/watch?v=kLWPPUcrnek&t=24s"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpeg"
-category: "Back End"
+category: [ "Back End" ]
 information:
   # - label : "Client"
   #   info : "Jannie Kelonsky"

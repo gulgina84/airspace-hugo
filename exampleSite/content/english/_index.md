@@ -26,7 +26,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.jpeg"
   title: "Project"
-  content: "I have team project experience with super talented programmers. I learned how to collaborate, how to communicate efficiently as a programmer, how to learn things faster, how to solve problems in a limited time"
+  content: "I have team project experience with super talented programmers. I learned how to collaborate, how to communicate efficiently as a programmer, how to learn things faster, how to solve problems efficiently."
   button:
     enable: true
     label: "My Projects"
