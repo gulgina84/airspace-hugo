@@ -21,4 +21,4 @@ information:
 ---
 
 ## Front End Project
-See Apple App Store [Mobole App](https://apps.apple.com/us/app/relief-vet/id1600813232 "Mobile App").
+<!-- See Apple App Store [Mobole App](https://apps.apple.com/us/app/relief-vet/id1600813232 "Mobile App"). -->
